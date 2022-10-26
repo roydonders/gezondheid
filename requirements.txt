@@ -1,1 +1,1 @@
-geopandas
+geopandas, dtale, scikit-learn, pandas-profiling
